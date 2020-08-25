@@ -69,7 +69,7 @@ Computers are pervasive
 
 ## Levels of Program Code
 
-<div>
+<p>
 <img align="right" src="/res/lvlprgmcode.png">
 
 - High-level language
@@ -83,7 +83,7 @@ Computers are pervasive
   - Binary digits
   - Encoded instructions and data
 
-</div>
+</p>
 
 ## Components of a Computer
 

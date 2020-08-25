@@ -168,5 +168,47 @@ Both of these come into play when talking about performance.
 
 ## CPU Time
 
-CPU Time = CPU_Clock_Cycles x Clock_Cycle_Time
-    = CPU_Clock_Cycles / Clock_Rate
+CPU Time = CPU_Clock_Cycles x Clock_Cycle_Time = CPU_Clock_Cycles / Clock_Rate
+
+Performance is improved by:
+
+- Reducing number of clock cycles
+
+- Increasing clock rate
+
+Hardware designers often trade off clock rate against cycle count.
+
+*Example:*
+
+Computer A has 2GHz clock and 10s CPU time
+
+Design computer B to be faster.
+
+- 6s CPU time (makes faster clock but causes 1.2 x clock cycles)
+
+How fast do we need B's clock to be?
+
+<img src="/res/cpuclockexample.png">
+
+
+## Instruction Count (IC) and Cycles per Instruction (CPI)
+
+ISA = Instruction set architecture
+
+<img src="/res/ICandCPI.png">
+
+Program instruction count is determined by the program, ISA, and compiler.
+
+Average cycles per instruction (CPI) is determined by CPU hardware.
+
+ - Different instructions have different CPI
+
+*Example:*
+
+Computer A has a cycle time of 250ps and a CPI of 2.0
+
+Computer B has a cycle time of 500ps and a CPI of 1.2
+
+They both have the same ISA. Which computer is faster and by how much?
+
+<img src="/res/cpiexample.png">

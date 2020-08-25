@@ -82,7 +82,8 @@ Computers are pervasive
   - Binary digits
   - Encoded instructions and data
 
-<br />
+<br>
+
 ## Components of a Computer
 
 - User-interface devices: Keyboard, mouse, display

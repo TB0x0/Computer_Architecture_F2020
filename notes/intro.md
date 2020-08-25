@@ -69,7 +69,6 @@ Computers are pervasive
 
 ## Levels of Program Code
 
-<p>
 <img align="right" src="/res/lvlprgmcode.png">
 
 - High-level language
@@ -83,7 +82,9 @@ Computers are pervasive
   - Binary digits
   - Encoded instructions and data
 
-</p>
+<br>
+<br>
+<br>
 
 ## Components of a Computer
 
@@ -145,3 +146,27 @@ Both of these come into play when talking about performance.
 - 15s / 10s = 1.5
 
 - Therefore A is 1.5 times faster than B
+
+## Measuring Execution Time
+
+- Elapsed Time
+  - Total response time including all aspects
+  - Determines system performance
+
+- CPU Time
+  - Time spent processing a given job (discounts I/O and shared time)
+  - User CPU time plus system CPU time
+  - Different programs are affected differently by CPU and system performance.
+
+## CPU Clocking
+
+<img src="/res/cpuclock.png">
+
+- Clock period: Duration of a clock cycle
+
+- Clock frequency: Cycles per second
+
+## CPU Time
+
+CPU Time = CPU_Clock_Cycles x Clock_Cycle_Time
+    = CPU_Clock_Cycles / Clock_Rate

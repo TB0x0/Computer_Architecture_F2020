@@ -66,7 +66,7 @@ Computers are pervasive
 
 3. Hardware: Processor, memory, I/O controllers
 
-<p>
+
 ## Levels of Program Code
 
 <img align="right" src="/res/lvlprgmcode.png">
@@ -82,7 +82,7 @@ Computers are pervasive
   - Binary digits
   - Encoded instructions and data
 
-</p>
+<br />
 ## Components of a Computer
 
 - User-interface devices: Keyboard, mouse, display

@@ -82,7 +82,7 @@ Computers are pervasive
   - Binary digits
   - Encoded instructions and data
 
-<br>
+***
 
 ## Components of a Computer
 

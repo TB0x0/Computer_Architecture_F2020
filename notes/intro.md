@@ -68,7 +68,7 @@ Computers are pervasive
 
 ## Levels of Program Code
 
-![](/res/lvlprgmcode.png)
+<img align="right" src="/res/lvlprgmcode.png">
 
 - High-level language
   - Level of abstraction closer to problem domain

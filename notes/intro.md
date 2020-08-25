@@ -168,7 +168,7 @@ Both of these come into play when talking about performance.
 
 ## CPU Time
 
-CPU Time = CPU_Clock_Cycles x Clock_Cycle_Time = CPU_Clock_Cycles / Clock_Rate
+<img src="/res/cputime.png">
 
 Performance is improved by:
 

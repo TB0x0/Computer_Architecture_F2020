@@ -80,3 +80,65 @@ Computers are pervasive
 - Hardware representation
   - Binary digits
   - Encoded instructions and data
+
+
+## Components of a Computer
+
+- User-interface devices: Keyboard, mouse, display
+
+- Storage devices: Disk, CD/DVD, flash, SSD
+
+- Network adapters: Allow communication across the net
+
+## AMD Barcelona Quad Core
+
+<img src="/res/barcelona.png">
+
+
+## Abstractions
+
+Abstraction helps us deal with complexity by hiding low-level details
+
+- Instruction Set Architecture (ISA): The hardware/software interface
+
+- Application Binary Interface: The ISA plus system software interface
+
+- Implementation: Details underlying an interface
+
+## Data Storage
+
+- Volatile Main Memory: Loses instructions when powered off.
+
+- Non-volatile Secondary Memory: Disk, flash, optical disk
+
+## Controller Area Network (CAN)
+
+Developed by Robert Bosch GmbH in 1983. Released in 1986.
+
+- Vehicle bus standard designed to allow microcontrollers and devices to communicate with each other in applications without a host computer.
+
+- Message based protocol designed for multiplex electrical wiring in vehicles. Also used in other contexts.
+
+- 1991 Mercedes-Benz W140 was first production vehicle with CAN bus system
+
+## Response Time and Throughput
+
+- Response time: How long it takes to do a task
+
+- Throughput: Total work done per unit of time
+
+Both of these come into play when talking about performance.
+
+## Relative Performance
+
+**Performance = 1 / Execution Time**
+
+*Example:* time taken to run a program
+
+- A takes 10s to run the program, B takes 15s
+
+- Execution Time<sub>B</sub> / Execution Time<sub>A</sub>
+
+- 15s / 10s = 1.5
+
+- Therefore A is 1.5 times faster than B

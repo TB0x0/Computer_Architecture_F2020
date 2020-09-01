@@ -12,5 +12,4 @@ Fifth Edition, D. Patterson and J. Hennessy, Morgan Kaufmann Publishers, ISBN-13
 ## Table of Contents
 
 1. [Introduction](/notes/intro.md)
-
 2. [CPU Performance](/notes/cpu_performance.md)

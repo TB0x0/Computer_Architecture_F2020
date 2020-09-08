@@ -1,7 +1,9 @@
 # Computer Architecture Formulas
 
 CPI = Cycles per Instruction
+
 IPS = Instructions per Second
+
 IPC = Instructions per Cycle
 
 
@@ -12,3 +14,5 @@ IPC = Instructions per Cycle
 <img src="https://latex.codecogs.com/gif.latex?IPS=\frac{ClockRate}{CPI}" />
 
 <img src="https://latex.codecogs.com/gif.latex?IPC=\frac{InstructionCount}{Time*ClockRate}" />
+
+<img src="https://latex.codecogs.com/gif.latex?MIPS=\frac{ClockRate}{CPI*10^6}" />

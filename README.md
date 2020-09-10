@@ -17,3 +17,4 @@ Fifth Edition, D. Patterson and J. Hennessy, Morgan Kaufmann Publishers, ISBN-13
 1. [Introduction](/notes/intro.md)
 2. [CPU Performance](/notes/cpu_performance.md)
 3. [The MIPS Instruction Set](/notes/mips.md)
+4. [The Hardware-Software Interface](/notes/hwswint.md)

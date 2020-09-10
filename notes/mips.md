@@ -1,9 +1,9 @@
-#MIPS Instruction Set
+# MIPS Instruction Set
 
 To command a computer's hardware you must speak its language using instructions contained in an instruction set.
 
 
-##Characteristics of the MIPS Instruction Set
+## Characteristics of the MIPS Instruction Set
 
 - Each MIPS instruction performs only one operation
 - It must always have exactly three variables
@@ -12,7 +12,7 @@ To command a computer's hardware you must speak its language using instructions 
 **Register Operands**
 - $t0 - $t9 are for temporary values
 - $s0 - $s7 are for saved variables
-- lw: load word, loads a word from the register 
+- lw: load word, loads a word from the register
 - sw: store word, stores a word in the register
 
 **Memory Operands**
@@ -26,8 +26,13 @@ To command a computer's hardware you must speak its language using instructions 
 <img src="/res/mipsfields.png" />
 
 op: opcode, the basic operation of the instruction
+
 rs: the first register source operand
+
 rt: the second register source operand
+
 rd: the register destination operand, the result is stored here
+
 shamt: shift amount
+
 funct: function, selects special variants of opcodes
